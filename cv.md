@@ -19,8 +19,12 @@
 *VS Code
 ====
 ### Code example
-
-
+``` function rollDice() {
+    let result = math.floor(Math.random() * 6) + 1;
+    console.log(result);
+}
+    rollDice();
+```
 ====
 ### Courses:
 *HTML and CSS Tutorials on the freecodecamp
