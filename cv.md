@@ -12,8 +12,8 @@
 
 ************************
 
-**Phone:** +7-929-574-56-95
-**E-mail:** only-max@yandex.ru
+**Phone:** +7-929-574-56-95\
+**E-mail:** only-max@yandex.ru\
 **Telegram:** @The_CrazyMakc
 
 ****************************
