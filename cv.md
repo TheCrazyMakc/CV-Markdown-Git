@@ -2,7 +2,6 @@
 
 # Soloviev Maxim
 
-**************
 
 ### Junior Frontend Developer
 
