@@ -13,17 +13,19 @@
 ### ABOUT MYSELF
 ====
 ### Skills and Proficiency:
-*HTML5, CSS3
-*JavaScript Basics
-*Git, GitHub
-*VS Code
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
 ====
-### Code example
-``` function rollDice() {
+### Code example:
+a function that stimulates the roll of the dice
+``` 
+function rollDice() {
     let result = math.floor(Math.random() * 6) + 1;
     console.log(result);
 }
-    rollDice();
+rollDice();
 ```
 ====
 ### Courses:
